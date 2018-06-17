@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhatsApp Web</string>
+    <string name="whatsapp_web_url">https://web.whatsapp.com</string>
+    <string name="whatsapp_host">.whatsapp.com</string>
+    <string name="user_agent_string">Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/20100101 Firefox/34.0</string>
+
+</resources>
